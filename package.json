@@ -1,9 +1,9 @@
 {
-  "name": "myexjswaza",
+  "name": "myexjs",
   "version": "1.0.0",
   "description": "no",
   "bin": {
-    "myexjswaza": "./bin/index.js"
+    "myexjs": "./bin/index.js"
   },
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xlisden/myexjswaza.git"
+    "url": "git+https://github.com/xlisden/myexjs.git"
   },
   "keywords": [
     "express",
@@ -20,9 +20,9 @@
   "author": "shouldtakethat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xlisden/myexjswaza/issues"
+    "url": "https://github.com/xlisden/myexjs/issues"
   },
-  "homepage": "https://github.com/xlisden/myexjswaza#readme",
+  "homepage": "https://github.com/xlisden/myexjs#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
