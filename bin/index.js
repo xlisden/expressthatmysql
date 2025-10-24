@@ -62,7 +62,6 @@ app.listen(PORT, () => {
 fs.writeFileSync(`${projectPath}/package.json`, JSON.stringify({
   name: "proyecto-express",
   version: "1.0.0",
-  type: "module",
   dependencies: {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",

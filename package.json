@@ -1,9 +1,9 @@
 {
-  "name": "expressthatmysql",
+  "name": "myexjswaza",
   "version": "1.0.0",
   "description": "no",
   "bin": {
-    "expressthatmysql": "./bin/index.js"
+    "myexjswaza": "./bin/index.js"
   },
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xlisden/expressthatmysql.git"
+    "url": "git+https://github.com/xlisden/myexjswaza.git"
   },
   "keywords": [
     "express",
@@ -20,9 +20,9 @@
   "author": "shouldtakethat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xlisden/expressthatmysql/issues"
+    "url": "https://github.com/xlisden/myexjswaza/issues"
   },
-  "homepage": "https://github.com/xlisden/expressthatmysql#readme",
+  "homepage": "https://github.com/xlisden/myexjswaza#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
